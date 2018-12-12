@@ -1,2 +1,2 @@
 # alexa
-project on alexa
+alexa project
