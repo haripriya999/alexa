@@ -1,0 +1,904 @@
+[
+	{
+		"question": "What is the greatest two digit number?",
+		"options": [
+			"10",
+			"90",
+			"99"
+		],
+		"answer": "3"
+	},
+	{
+		"question": "How much is 90 plus. 19",
+		"options": [
+			"109",
+			"79",
+			"89"
+		],
+		"answer": "1"
+	},
+	{
+		"question": "What is the smallest three digit number?",
+		"options": [
+			"101",
+			"100",
+			"111"
+		],
+		"answer": "2"
+	},
+
+	{
+		"question": " Which of the following is the national animal of India?",
+		"options": [
+			" Lion ",
+			"Tiger ",
+			" Elephant "
+		],
+		"answer": " 2 "
+	},
+{
+		"question": " How many colours are there in India's National Flag?",
+		"options": [
+			"2",
+			"4",
+			"3"
+		],
+		"answer": "2"
+	},
+{
+		"question": " When do we celebrate our Independence Day?",
+		"options": [
+			"15th January ",
+			"26th January ",
+			" 15th August "
+		],
+		"answer": "3"
+	},
+{
+		"question": " Which of the following month have 31 days?",
+		"options": [
+			"October ",
+			"June ",
+			"February"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Which of the following is not an outdoor game?",
+		"options": [
+			"Cricket ",
+			"Football ",
+			"Table tennis "
+		],
+		"answer": "3"
+	},
+{
+		"question": "How many players are there in a cricket team?",
+		"options": [
+			"11",
+			"10",
+			"16"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Which of the following is the biggest sea animal?",
+		"options": [
+			" Blue whale ",
+			"  Dolphin ",
+			"Shark "
+		],
+		"answer": "1"
+	},
+{
+		"question": " Who was popularly known as Netaji?",
+		"options": [
+			"Vallabbhai Patel ",
+			"Subhash Chandra Bose ",
+			" Bal Gangadhar Tilak "
+		],
+		"answer": "2"
+	},
+{
+		"question": " Who is the author of the book - Broken Wing?",
+		"options": [
+			"Sarojini Naidu ",
+			" Annie Besant ",
+			" Dadhabhai Naoroji "
+		],
+		"answer": "1"
+	},
+{
+		"question": " Kuchipudi is the dance form of which state?",
+		"options": [
+			"Tamil Nadu ",
+			"Andhra Pradesh ",
+			"Karnataka "
+		],
+		"answer": "2"
+	},
+{
+		"question": "  Who was the first President of India?",
+		"options": [
+			"Dr. Rajendra Prasad ",
+			" Jawahar Lal Nehru ",
+			" Dr. S. Radhakrishnan "
+		],
+		"answer": "1"
+	},
+		{"question": " Who is known as Father of Indian Constitution?",
+		"options": [
+			"Jawahar Lal Nehru ",
+			" Abul Kalam Azad ",
+			"Dr. B. R. Ambedkar "
+		],
+		"answer": "3"
+	},
+{
+		"question": " Who invented Computer?",
+		"options": [
+			"Thomas Alva Edison ",
+			" Pascal ",
+			"Charles Babbage "
+		],
+		"answer": "3"
+	},
+{
+		"question": " Largest 3-digit number completely divided by 7 is?",
+		"options": [
+			" 994 ",
+			"901",
+			"997"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Smallest state of India is?",
+		"options": [
+			"Goa",
+			"Sikkim",
+			"Tripura"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Highest dam of India is?",
+		"options": [
+			"Tehri Dam ",
+			"Hirakud Dam ",
+			" Bhakra Nangal Dam "
+		],
+		"answer": "1"
+	},
+{
+		"question": "Agra is situated on the bank of river?",
+		"options": [
+			"Ganga ",
+			"Yamuna ",
+			"Gomti "
+		],
+		"answer": "2"
+	},
+{
+		"question": "Round 8573 to the nearest ten?",
+		"options": [
+			"8570",
+			"8580",
+			"8500"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Most widely spoken language in the world is?",
+		"options": [
+			"Mandarin (Chinese) ",
+			"English",
+			"Spanish"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Which of the following is known as City of Palaces?",
+		"options": [
+			"Kolkata ",
+			" New Delhi",
+			"Jaipur "
+		],
+		"answer": "1"
+	},
+{
+		"question": "Rich source of Vitamin-C is?",
+		"options": [
+			"Apple",
+			"Orange",
+			"Mango"
+		],
+		"answer": "2"
+	},
+
+{
+		"question": " Cataract is the disease of?",
+		"options": [
+			"Ears ",
+			"Eyes",
+			"Nose"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Who was the first Indian to hold the post of Governor General in India?",
+		"options": [
+			" Dr. Rajendra Prasad",
+			" Dr. K M Munshi",
+			" C Rajagopalachari"
+		],
+		"answer": "3"
+	},
+{
+		"question": " Who was the India’s first Deputy Prime Minister?",
+		"options": [
+			" Sardar Vallabhai Patel",
+			"Morarji Desai",
+			"Choudhary Charan Singh"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Who was the first Indian woman to be decorated with Bharat Ratna?",
+		"options": [
+			"Indira Gandhi",
+			"Mother Teresa",
+			" Aruna Asaf Ali"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Which is India's highest civilian award?",
+		"options": [
+			" Padma Bhushan",
+			" Padma Vibushan",
+			" Bharat Ratna"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Which is India’s highest Civilian honour?",
+		"options": [
+			" Padma bhushan",
+			" Padma vibhushan",
+			"Padma Sri"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Who gets Dronacharya Award?",
+		"options": [
+			"Best Coach",
+			"Best Tennis Player",
+			"Best Wrestler"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Who was the first recipient of Bharat Ratna?",
+		"options": [
+			"Shri V V Giri",
+			"Dr. Zakir Hussain",
+			" Dr. Sarvapalli Radhakrishnan"
+		],
+		"answer": "3"
+	},
+{
+		"question": "The metal present in the haemoglobin is __.",
+		"options": [
+			"Copper",
+			"Calcium",
+			" Iron"
+		],
+		"answer": "3"
+	},
+{
+		"question": "The metal present in the chlorophyll is __.",
+		"options": [
+			" Calcium",
+			"Magnesium",
+			"Aluminium"
+		],
+		"answer": "2"
+	},
+{
+		"question": " What is the smallest bone in the human body ?",
+		"options": [
+			"Stapes",
+			"Carpals",
+			"Sternum"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Which is the largest ocean in the world ?",
+		"options": [
+			" Pacific Ocean",
+			"Atlantic ocean",
+			"Indian ocean"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Which is the largest plateau in the world ?",
+		"options": [
+			"Chota Nagpur",
+			"shilling plateau",
+			" Tibetan Plateau"
+		],
+		"answer": "3"
+	},
+{
+		"question": " Which place is known as tea garden of India",
+		"options": [
+			"Assam ",
+			"Bangalore",
+			"orissa"
+		],
+		"answer": "1"
+	},
+{
+		"question": ".who discovered electric bulb?",
+		"options": [
+			"Thomas alva edison ",
+			"C.V.Raman",
+			"Charles Babbage"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Which is the largest desert in the world ?",
+		"options": [
+			"Sahara Desert",
+			"Thar Desert",
+			"Atacama Desert"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Which place is called the Orchid Paradise in India?",
+		"options": [
+			"Maharasthra",
+			"Jaipur",
+			"Arunachal Pradesh"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Where is the tower of silence situated in India?",
+		"options": [
+			"Kolkata",
+			"Mumbai",
+			"Rajasthan"
+		],
+		"answer": "2"
+	},
+{
+		"question": " Which is the brightest planet in our solar system?",
+		"options": [
+			"Mercury",
+			"Saturn",
+			"Venus"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Who was the first president of America?",
+		"options": [
+			"George Washington",
+			"John Adams",
+			"James Madison"
+		],
+		"answer": "1"
+	},
+{
+		"question": " How many bones are there in a human body? ",
+		"options": [
+			"204",
+			"206",
+			"208"
+		],
+		"answer": "2"
+	},
+{
+		"question": " Who was the first Asian to be awarded the Nobel Prize? ",
+		"options": [
+			"  Rabindranath Tagore",
+			" Kazuo Ishiguro",
+			" Arthur Ashkin"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Which acid is found in an apple? ",
+		"options": [
+			"Malic acid",
+			"Citric acid",
+			"Sulphuric acid"
+		],
+		"answer": "1"
+	},
+{
+		"question": " who was the inventor was the telescope? ",
+		"options": [
+			" Galileo Galilei ",
+			" Archimedes  ",
+			"Euclid"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Which state in India has the maximum population? ",
+		"options": [
+			"  Uttar Pradesh ",
+			"Madhya Pradesh",
+			"Tamil Nadu"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Name the highest waterfall in the world ",
+		"options": [
+			"Gocta falls ",
+			" Angel falls ",
+			"Tugela falls"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Name the gas found in the most abundance in our planet’s atmosphere? ",
+		"options": [
+			"Nitrogen",
+			" Oxygen",
+			"Carbon Dioxide"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Who is the Vice President of India?",
+		"options": [
+			"Venkaiah Naidu",
+			"Mohammad Hamid Ansari ",
+			"Bhairon Singh Shekhawat"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Which planet is known as the blue planet of our solar system? ",
+		"options": [
+			"Earth",
+			" Venus ",
+			"Saturn"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Which river is called the holy river in India? ",
+		"options": [
+			"Yamuna",
+			"Godavari ",
+			"Ganga"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Who was the author of the famous book Ramcharitramans? ",
+		"options": [
+			"Valmiki",
+			" Tulsidas",
+			"Chanakya"
+		],
+		"answer": "2"
+	},
+{
+		"question": "who wrote the Mahabharata? ",
+		"options": [
+			"Ved Vyas",
+			"Valmiki ",
+			"Charaka"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Gandhi Ji started the Dandi March in which year?",
+		"options": [
+			"1935",
+			"1930 ",
+			"1942"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Which country is largest in terms of population? ",
+		"options": [
+			"United States Of America",
+			"China ",
+			"Russia"
+		],
+		"answer": "2"
+	},
+{
+		"question": " Which is the largest salt water lake in India?",
+		"options": [
+			"Sambhar Lake",
+			" Lonar Lake",
+			"Chilika lake"
+		],
+		"answer": "1"
+	},
+{
+		"question": " What is the name of our galaxy?",
+		"options": [
+			"Milky Way",
+			"Andromeda ",
+			"Whirlpool"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Which state in India has the maximum  literacy rate? ",
+		"options": [
+			"Tamil Nadu",
+			" Maharashtra",
+			"Kerala"
+		],
+		"answer": "3"
+	},
+{
+		"question": " Which state in India has the minimum  literacy rate? ",
+		"options": [
+			"Rajasthan",
+			"Bihar ",
+			"Jammu and Kashmir"
+		],
+		"answer": "2"
+	},
+{
+		"question": "  Father of Green Revolution?",
+		"options": [
+			"Verghese Kurien",
+			"Norman Borlaug ",
+			"  M S Swaminathan"
+		],
+		"answer": "3"
+	},
+{
+		"question": " who discovered radio ? ",
+		"options": [
+			"Marconi",
+			" Galileo Galilei ",
+			"Charles Babbage"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Which of the Indian state has the longest coast line? ",
+		"options": [
+			"Andhra Pradesh",
+			" Orissa",
+			"Tamil Nadu"
+		],
+		"answer": "1"
+	},
+{
+		"question": "  who discovered television? ",
+		"options": [
+			" Marconi ",
+			" Jhon L baird ",
+			"Alexander Flemming"
+		],
+		"answer": "2"
+	},
+{
+		"question": "  Which is largest freshwater lake in the world? ",
+		"options": [
+			" Lake Superior ",
+			"  Wular Lake ",
+			" Kolleru Lake "
+		],
+		"answer": "1"
+	},
+{
+		"question": "  Which is the smallest country in the world ? ",
+		"options": [
+			" Nauru ",
+			" Vatican City ",
+			" Monaco "
+		],
+		"answer": "2"
+	},
+{
+		"question": " Which is the largest island in the world ? ",
+		"options": [
+			"New Guinea ",
+			"Greenland ",
+			"Madagascar  "
+		],
+		"answer": "2"
+	},
+{
+		"question": "The Gland secretes Insulin? ",
+		"options": [
+			"Pancreas",
+			"Thyroid ",
+			"pituitary, "
+		],
+		"answer": "1"
+	},
+{
+		"question": "Which continent is known as Dark continent? ",
+		"options": [
+			"Antartica",
+			"Africa ",
+			"Asia"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Which country is home to the kangaroo? ",
+		"options": [
+			"Australia ",
+			"Canada ",
+			"India"
+		],
+		"answer": "1"
+	},
+{
+		"question": " How many colours are in a rainbow? ",
+		"options": [
+			"7",
+			" 6",
+			"8"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Which Italian city is famous for its leaning tower?  ",
+		"options": [
+			"Pisa",
+			"Rome ",
+			"Florence"
+		],
+		"answer": "1"
+	},
+{
+		"question": "  The Statue of Liberty was gifted to the United States by which country?  ",
+		"options": [
+			"England",
+			" France",
+			"Germany"
+		],
+		"answer": "2"
+	},
+
+{
+		"question": "  Which was the country that first made the use of paper money?  ",
+		"options": [
+			"France",
+			" China",
+			"India"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Who painted the Mona Lisa?  ",
+		"options": [
+			"Leonardo da Vinci ",
+			"Pablo Picasso ",
+			"Vincent Van Gogh"
+		],
+		"answer": "1"
+	},
+{
+		"question": " In which year did the Titanic sink?  ",
+		"options": [
+			"1912 ",
+			" 1921 ",
+			"1932 "
+		],
+		"answer": "1"
+	},
+{
+		"question": "  Which country’s capital is Ottawa? ",
+		"options": [
+			" Canada",
+			"Afghanistan ",
+			"Albania "
+		],
+		"answer": "1"
+	},
+{
+		"question": "What is the boiling point of water? ",
+		"options": [
+			"100 degree  ",
+			" 110 degree",
+			"98 degree"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Narendra Modi was the Chief Minister of which states? ",
+		"options": [
+			"Gujarat",
+			" Rajasthan",
+			"Orissa"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Name the first female Indian Astronaut ",
+		"options": [
+			"Kalpana Chawla ",
+			"Sally Ride ",
+			"Sunitha Williams"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Who was the first Indian to go to space? ",
+		"options": [
+			"Rakesh Sharma",
+			" Kalpana Chawla ",
+			"Ravish Malhotra"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Who was India’s longest serving Prime Minister? ",
+		"options": [
+			"Morarji Desai",
+			" Jawaharlal Nehru",
+			"Indira Gandhi"
+		],
+		"answer": "2"
+	},
+{
+		"question": " Which is the smallest continent? ",
+		"options": [
+			"North America ",
+			"Australia ",
+			"Europe"
+		],
+		"answer": "2"
+	},
+{
+		"question": " What is India’s form of Governance? ",
+		"options": [
+			"Monarchy",
+			" Democracy",
+			" Oligarchy "
+		],
+		"answer": "2"
+	},
+{
+		"question": "  Who was the first Indian Woman to climb Mount Everest? ",
+		"options": [
+			"Arunima Sinha",
+			"Malavath Purna ",
+			" Bachendri Pal "
+		],
+		"answer": "3"
+	},
+{
+		"question": " ‘Madhubani’, a style of folk paintings, is popular in which of the following states in India? ",
+		"options": [
+			"  Bihar",
+               "Orissa ",
+			"West Bengal"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Name the lightest gas ",
+		"options": [
+			"Helium",
+			" Lithium",
+			"Hydrogen"
+		],
+		"answer": "3"
+	},
+{
+		"question": "  Who wrote Panchatantra? ",
+		"options": [
+			" Vishnu Sharma ",
+			"Charaka ",
+			"valmiki"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Entomology is the science that studies ",
+		"options": [
+			" Insect ",
+			"plants ",
+			"Birds"
+		],
+		"answer": "1"
+	},
+{
+		"question": " How many layers are there in Earth’s atmosphere? ",
+		"options": [
+			"3",
+			"4 ",
+			"5"
+		],
+		"answer": "3"
+	},
+{
+		"question": " Where is the Ajanta caves situated? ",
+		"options": [
+			"Karnataka",
+			"Orissa ",
+			"Maharasthra"
+		],
+		"answer": "3"
+	},
+{
+		"question": " What is the name of India and Pakistan’s border? ",
+		"options": [
+			" McMohan Line ",
+			" Radcliffe Line ",
+			" Purbachal "
+		],
+		"answer": "2"
+	},
+{
+		"question": " What is the study of Universe known as? ",
+		"options": [
+			" Cosmology ",
+			"Geology ",
+			"Meterology"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Who was known as the Indian Napoleon? ",
+		"options": [
+			" Samudragupta ",
+			" Chandragupta II ",
+			" Kumaragupta I "
+		],
+		"answer": "1"
+	},
+{
+		"question": " Who gave the slogan Do or Die? ",
+		"options": [
+			" Mahatma Gandhi ",
+			" Rabindranath Tagore",
+			"Bhagath Singh"
+		],
+		"answer": "1"
+	},
+{
+		"question": "  The title ‘Punjab Kesari’ was conferred on ",
+		"options": [
+			" Lala Lajpat Rai ",
+			" Shivaram Rajguru",
+			"Bal Gangadhar Tilak"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Tripitakas are sacred books of ",
+		"options": [
+			" Buddhists ",
+			" Hindus",
+			"Jains"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Which is the largest lake in the Japan? ",
+		"options": [
+			"  Kawaguchi ",
+			" Biwa ",
+			"  Mashū "
+		],
+		"answer": "2"
+	}]
+

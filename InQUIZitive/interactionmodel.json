@@ -1,0 +1,373 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "quiz",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "StartQuiz",
+                    "slots": [
+                        {
+                            "name": "game",
+                            "type": "Game"
+                        }
+                    ],
+                    "samples": [
+                        "new {game}",
+                        "start {game} ",
+                        "solve {game}",
+                        "{game}",
+                        "i would like to solve a set of  {game}",
+                        "i would like to take a {game}"
+                    ]
+                },
+                {
+                    "name": "TopicIntent",
+                    "slots": [
+                        {
+                            "name": "topic",
+                            "type": "Topics"
+                        }
+                    ],
+                    "samples": [
+                        "the genre of my quiz is {topic}",
+                        "i want to take a quiz on {topic}",
+                        "{topic}"
+                    ]
+                },
+                {
+                    "name": "AnswerIntent",
+                    "slots": [
+                        {
+                            "name": "answer",
+                            "type": "AMAZON.NUMBER"
+                        }
+                    ],
+                    "samples": [
+                        "answer is {answer}",
+                        "my answer is {answer}",
+                        "{answer}"
+                    ]
+                },
+                {
+                    "name": "YesIntent",
+                    "slots": [],
+                    "samples": [
+                        "yes"
+                    ]
+                },
+                {
+                    "name": "SkipIntent",
+                    "slots": [],
+                    "samples": [
+                        "skip question",
+                        "skip"
+                    ]
+                },
+                {
+                    "name": "EndQuizIntent",
+                    "slots": [],
+                    "samples": [
+                        "no",
+                        "end quiz",
+                        "end"
+                    ]
+                },
+                {
+                    "name": "RiddlesIntent",
+                    "slots": [
+                        {
+                            "name": "type_riddles",
+                            "type": "riddle_category"
+                        }
+                    ],
+                    "samples": [
+                        "{type_riddles}"
+                    ]
+                },
+                {
+                    "name": "RiddlesAnswerIntent",
+                    "slots": [
+                        {
+                            "name": "ranswer",
+                            "type": "AMAZON.SearchQuery"
+                        }
+                    ],
+                    "samples": [
+                        " {ranswer}",
+                        "the answer is {ranswer}",
+                        "ans is {ranswer}"
+                    ]
+                },
+                {
+                    "name": "RepeatIntent",
+                    "slots": [],
+                    "samples": [
+                        "repeat",
+                        "please repeat"
+                    ]
+                },
+                {
+                    "name": "UserInfo",
+                    "slots": [
+                        {
+                            "name": "name",
+                            "type": "AMAZON.SearchQuery"
+                        }
+                    ],
+                    "samples": [
+                        "this is {name}",
+                        "i am {name}",
+                        "my name is {name}"
+                    ]
+                }
+            ],
+            "types": [
+                {
+                    "name": "Game",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "riddles"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "quiz"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Topics",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "current affairs"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "kids quiz"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Sports"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "kidsquiz"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "currentaffairs"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Movies"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Choice",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "skip"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "quit "
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "answer"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "riddle_category",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "begin riddles"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "start riddles"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "begin"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "start"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "answer_riddles",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "2519"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "100"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "light 1 light 2 light 3 wait 1 light 4"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "99"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "50"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "28"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "73"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "2"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "252"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "white paint"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "darkness"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "coffin"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "a coffin"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "n"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "the letter n"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "stars"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "the stars"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "future"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "the future"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "river"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "a river"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "e"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "the letter e"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "man"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "nothing"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

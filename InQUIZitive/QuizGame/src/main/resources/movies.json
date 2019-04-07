@@ -1,0 +1,905 @@
+[
+	{
+		"question": " What are John Abraham and Akshay Kumar's professions in Garam Masala?",
+		"options": [
+			"Photographers",
+			"Reporters",
+			"Lawyers"
+	],
+		"answer": "1"
+	},
+	{
+		"question": "Who, apart from Aamir Khan, wants to marry Preity Zinta in Dil Chahta Hai?",
+		"options": [
+			"Shah Rukh Khan",
+			"Ayub Khan",
+			"Saif Ali Khan"
+		],
+		"answer": "2"
+	},
+	{
+		"question": " What actor played the drama critic in the Orson Welles classic 'Citizen Kane'??",
+		"options": [
+			"Joseph Cotten",
+			"Joseph Elen",
+			"Christian fleed"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Who plays the blind friend in the 1964 Dosti?",
+		"options": [
+			"Mohan",
+			"Dinu",
+			"Ramu"
+		],
+		"answer": "1"
+	},
+{
+		"question":"The catch-line 'American dream, Indian soul' was of the film...?",
+		"options": [
+			"Indian",
+			"Pardes",
+			"American desi"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Madhuri Dixit's name in N Chandra's 'Tezaab' was...?",
+		"options": [
+			"Mohini",
+			"Pooja",
+			"Jui"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Aishwarya Rai was crowned Miss World in which year?",
+		"options": [
+			"1996",
+			"1997",
+			"1994"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Lata Mangeshkar was awarded the Padma Bhushan in which year?",
+		"options": [
+			"1969",
+			"1959",
+			"1968"
+		],
+		"answer": "1"
+	},
+{
+		"question": " Raj Kapoor-Nargis starrer 'Chori Chori' was inspired from which Hollywood classic?",
+		"options": [
+			"It happened one night",
+			"Titanic",
+			"It's a wonderful life"
+		],
+		"answer": "1"
+	},
+{
+		"question": "The name of Saif Ali Khan's daughter is...?",
+		"options": [
+			"Sara",
+			"Madiya",
+			"Mehnaz"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Raveena Tandon won the National Award for her role in which film?",
+		"options": [
+			"Ankhiyo se goli maar",
+			"Aan",
+			"Dhamam"
+		],
+		"answer": "3"
+	},
+{
+		"question": "In which film did Aishwarya Rai pretended to play twins?",
+		"options": [
+			"Josh",
+			"Jeans",
+			"Dhoom 2"
+		],
+		"answer": "2"
+	},
+{
+		"question":" Lata Mangeshkar made her debut in Hindi playback singing with the movie...?",
+		"options": [
+			"Dewar",
+			"Aapki seva mein",
+			"Barsaat"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Tabu's real name is...?",
+		"options": [
+			"Shakeela Merchant",
+			"Tabbakul",
+			"Tabasum Fatima Hashmi"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Pawan Kalyan's first movie was...?",
+		"options": [
+			"Bangaraam",
+			"Gudumba Shanker",
+			"Akkada ammai ikkada abbai"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Which film has grossed the most money (world wide) in 2018 so far? ",
+		"options": [
+			"Fifty Shades Freed",
+			"Black Panther",
+			"Paddington 2"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Who voices the character of Peter Rabit in 2018 movie?",
+		"options": [
+			"James Nesbit",
+			"James Cordan",
+			"Martin Freeman"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Which HBO crime series is getting a prequel film ?",
+		"options": [
+			"The Wire",
+			"The Sheild",
+			"The Sopranos"
+		],
+		"answer": "3"
+	},
+
+{
+		"question": "Who is the director of Bahubali 1 and Bahubali 2 ?",
+		"options": [
+			"Trivikram",
+			"Murgadoss",
+			"Rajamouli"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Who is the lead actor in Bahubali 1 ?",
+		"options": [
+			"Mahesh babu",
+			"Prabhas",
+			"Venkatesh"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Neerja movie in bollywood is lead by which actress ?",
+		"options": [
+			"Sonam Kapoor",
+			"Anushka sharma",
+			"Deepika padokune"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Who won an Oscar for his performance in 'All The King's Men'?",
+		"options": [
+			"Art Carney",
+			"Broderick Crawford",
+			"John Cena"
+		],
+		"answer": "2"
+	},
+{
+		"question": "What comedic actress died in a plane crash in 1942?",
+		"options": [
+			"Jean Harlow",
+			"Carole Lombard",
+			"Greta Garbo"
+		],
+		"answer": "2"
+	},
+{
+		"question":"In which film did Richard Widmark become a star by kicking a wheelchair-bound cripple down the stairs? ?",
+		"options": [
+			"Kiss of Death",
+			"The Sheild",
+			"The Sopranos"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Which actress became an international star after appearing in 'The Third Man' ?",
+		"options": [
+			"Claudia Cardinale ",
+			"Alida Valli",
+			"Freet Handsome"
+		],
+		"answer": "2"
+	},
+
+{
+		"question": "Which two actors directed themselves in movies and won Oscars for Best Actor ?",
+		"options": [
+			"Laurence  and Roberto baker",
+			"Laurence and Baker Benigni",
+			"Laurence Olivier and Roberto Benigni"
+		],
+		"answer": "3"
+	},
+{
+		"question": "After all, tomorrow is another day! was the last line in which Oscar-winning Best Picture?",
+		"options": [
+			"The Matrix",
+			"Harold and Moon",
+			"Gone With The Wind"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Who is the only person to win an Oscar for Best Director for the only movie he ever directed?",
+		"options": [
+			"Frank Anthony ",
+			"Bob Frosse",
+			"Jerme Robbins"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Who is the most nominated actor in Academy history?",
+		"options": [
+			"Jack Nicholson",
+			"Pal Newman",
+			"Anderws"
+		],
+		"answer": "1"
+	},
+{
+		"question": "In which movie was the Oscar-winning song Do Not Forsake Me, Oh My Darlin prominently featured?",
+		"options": [
+			"Song of the South(1946)",
+			"Calamity Jane(1953)",
+			"High Noon(1952)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Which classic Billy Wilder film noir was the basis for the plot in director Lawrence Kasdan's neo-noir Body Heat (1981), starring Kathleen Turner and William Hurt?",
+		"options": [
+			"Ace in Hole(1951) ",
+			"Sunset Bouolevard(1950)",
+			"Double Indemnity (1944)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "What was the first Western to win the Academy Award for Best Picture?",
+		"options": [
+			"Brokeback Mountain (2005)",
+			"Stagecoach (1939)",
+			"Cimarron (1930/31)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "What was the first film to receive an Academy Award nomination in each of the performance categories?",
+		"options": [
+			"A Streetcar Named Desire (1951)",
+			"My Man Godfrey (1936)",
+			"Stagecoach(1939)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "What Cameron Crowe-directed Hollywood remake was the setting for the on-screen and real-life romance of married actor Tom Cruise and Spanish star Penelope Cruz?",
+		"options": [
+			"Magnolia (1999)",
+			"Vanilla Sky (2001)",
+			"Freet Handsome(1987)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Which movie ends with this final line of dialogue: Why, she wouldn't even harm a fly?",
+		"options": [
+			"Diabolique (1996) ",
+			"To Die For (1995)",
+			" Psycho (1960)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "In which plot-twisting movie was it revealed in the surprise ending that the crippled con man who was released after being interrogated in a police station was in fact the criminal mastermind Keyser Soze?",
+		"options": [
+			"The Getaway (1972) ",
+			"The Usual Suspects (1995)",
+			"Dial M for Murder (1954)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "The Loverliest Motion Picture of Them All was the tagline to which popular movie?",
+		"options": [
+			"A Star Is Born (1954) ",
+			"Les Girls (1957)",
+			" My Fair Lady (1964)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Who said: Greed, for lack of a better word, is good,and in which movie?",
+		"options": [
+			"Tom Hanks as Sherman McCoy in The Bonfire of the Vanities (1990)",
+			"Sean Gullette as Max Cohen in Pi (1998)",
+			"Michael Douglas as Gordon Gekko in Wall Street (1987)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Which is the shortest movie to win Best Picture?",
+		"options": [
+			"Marty (1955)",
+			"Sunrise (1927)",
+			"Annie Hall (1977)"
+		],
+		"answer": "1"
+	},
+{
+		"question": "What was most notable about the 96-minute long movie Russian Ark (2002) from director Aleksandr Sokurov?",
+		"options": [
+			"It had no cuts.",
+			"The opening scene had an 18-minute tracking shot.",
+			"There was no talking for the first 25 minutes."
+		],
+		"answer": "1"
+	},
+{
+		"question":"What was the name of the American actor who starred in Sergio Leone's low-budget spaghetti westerns in the 1960s?",
+		"options": [
+			"Robert Redford",
+			"John Wayne",
+			"Clint Eastwood"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Which Billy Wilder movie seriously tackled the taboo subject of alcoholism for the first time in Hollywood?",
+		"options": [
+			"Fedora (1978)",
+			"The Lost Weekend (1945)",
+			"Ace in the Hole(1951)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "To enter the mind of a killer she must challenge the mind of a madman is a tagline from what movie?",
+		"options": [
+			"Monster(2004)",
+			"The Silence of the Lambs (1991)",
+			"Copycat (1995)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "What was the first feature-length Hollywood talkie to use spoken dialogue as part of the dramatic action?",
+		"options": [
+			"All Quiet on the Western Front (1930)",
+			"The Jazz Singer (1927)",
+			"Show Girl in Hollywood (1930)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Who are the only two actresses to win the Best Actress Oscar (Academy Award) two years consecutively?",
+		"options": [
+			" Katharine Hepburn and Luise Rainer",
+			"Jessica Tandy and Elizabeth Taylor",
+			"Meryl Streep and Judi Dench"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Which movie had this line of dialogue as its last line: Two more months?",
+		"options": [
+			"Memento (2000)",
+			"Fargo (1996)",
+			"The Life Aquatic (2004)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Mogambo (1953), with Clark Gable, Ava Gardner and Grace Kelly, was a remake of which earlier movie also starring Clark Gable but opposite Jean Harlow and Mary Astor?",
+		"options": [
+			"Forbidden Paradise (1924)",
+			" Red Dust (1932)",
+			"White Man (1924)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "What was Robert Duvall's first movie role, without dialogue?",
+		"options": [
+			"Lady Ice (1973)",
+			"True Grit (1969)",
+			"To Kill a Mockingbird (1962)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "The jungle scenes and other stock footage used in the studio's first Tarzan film with Johnny Weissmuller, Tarzan, the Ape Man (1932), were from which earlier MGM movie?",
+		"options": [
+			"West of Zanzibar (1928)",
+			"Trader Horn (1931)",
+			"Africa Speaks! (1930)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "What was legendary director Cecil B. DeMille's first and only widescreen feature?",
+		"options": [
+			" The Ten Commandments (1956) ",
+			"Unconquered (1947)",
+			"The Greatest Show on Earth (1952)"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Who was the first African-American Oscar nominee and winner (and for which movie) and also the first African-American guest at the awards ceremony?",
+		"options": [
+			"Hattie McDaniel for Gone with the Wind (1939)",
+			"Dorothy Dandridge for Carmen Jones (1954)",
+			"Sidney Poitier for Lilies of the Field (1963)"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Which two movies have received the most Oscar nominations ever?",
+		"options": [
+			"All About Eve (1950) and Titanic (1997)",
+			"Ben-Hur (1959) and Gone with the Wind (1939)",
+			"Schindler's List (1993) and Forrest Gump (1994)"
+		],
+		"answer": "1"
+	},
+{
+		"question": "In which movie did the first major movie star, Mexican beauty Dolores Del Rio, wear a two-piece women's bathing suit on-screen?",
+		"options": [
+			"The Bad One (1930)",
+			"Flying Down to Rio (1933)",
+			"Ali Baba Goes to Town (1937)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Which actor has lost the most times after being nominated for an Academy Award?",
+		"options": [
+			"Jon Voight",
+			"Albert Finney",
+			"Peter O'Toole"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Which movie(s) have won the most Oscars?",
+		"options": [
+			" All of the below",
+			"The Lord of the Rings: The Return of the King (2003)",
+			"Titanic (1997)"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Which animated feature has been nominated for Best Picture?",
+		"options": [
+			"Toy Story (1995)",
+			"The Incredibles (2004)",
+			" Beauty and the Beast (1991)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Who is the only American female to be nominated for Best Director?",
+		"options": [
+			"Julie Taymor",
+			"Penny Marshall",
+			"Sofia Coppola"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Who is the oldest performer to win Best Actress?",
+		"options": [
+			"Carmen Maura",
+			"Judi Dench",
+			"Jessica Tandy"
+		],
+		"answer": "3"
+	},
+{
+		"question": "What movie won the first Oscar for the new category of Best Animated Feature Film?",
+		"options": [
+			" The Incredibles (2004)",
+			"WALL-E (2008)",
+			"Shrek (2001)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "In which movie does a dying gangster say: Mother of Mercy, is this the end of Rico?",
+		"options": [
+			"Public Enemy (1931)",
+			"Little Caesar (1930)",
+			"G-Men (1935)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "What was the first movie in Academy history to win three acting Oscars?",
+		"options": [
+			" From Here to Eternity (1953)",
+			"A Streetcar Named Desire (1951)",
+			"Network (1976)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Holly Hunter won her sole Best Actress Oscar for which movie?",
+		"options": [
+			"The Piano (1993)",
+			"Broadcast News (1987)",
+			"The Firm (1993)"
+		],
+		"answer": "1"
+	},
+{
+		"question": "What is Alfred Hitchcock's last movie?",
+		"options": [
+			"Family Plot (1976)",
+			"Topaz (1969)",
+			"Frenzy (1972)"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Who is the only other actress other than Grace Kelly to star in three Hitchcock-directed movies?",
+		"options": [
+			"Madeleine Carroll",
+			"Ingrid Bergman",
+			"Joan Fontaine"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Who is the first African-American actor to win an Oscar for Best Actor?",
+		"options": [
+		                  "Denzel Washington",
+			"James Earl Jones",
+			"Sidney Poitier"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Which Best Picture-winning movie is the only one to receive five Oscar nominations for its acting performances AND lost in every single instance?",
+		"options": [
+			"The Godfather, Part II (1974)",
+			"Peyton Place (1957)",
+			"Tom Jones (1963)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Which movie can be identified with the following tagline: This is Benjamin. He's a little worried about his future?",
+		"options": [
+			"Ben (1972)",
+			"My Life as a Dog (1987)",
+			"The Graduate (1967)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Who is the only actor to be nominated four consecutive times for Best Actor?",
+		"options": [
+			"Al Pacino",
+			"Marlon Brando",
+			"Gregory Peck"
+		],
+		"answer": "2"
+	},
+{
+		"question": "What is the first foreign-made film to be presented with the Oscar for Best Picture?",
+		"options": [
+			"Children of Paradise aka Les Enfants du Paradis (1945)",
+			"Hamlet (1948)",
+			"La Dolce Vita (1960)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "What is the longest movie (in its original running time) to win Best Picture?",
+		"options": [
+			"Ben-Hur (1959)",
+			"Gone with the Wind (1939)",
+			"Lawrence of Arabia (1962)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Which movie is the first feature-length three-strip Technicolor film?",
+		"options": [
+			"Becky Sharp ",
+			"The Wizard of Oz",
+			"Gone with the Wind"
+		],
+		"answer": "1"
+	},
+{
+		"question": "In what famous British Ealing Studios black comedy does Alec Guinness play eight roles?",
+		"options": [
+			"The Man in the White Suit (1951) ",
+			"The Ladykillers (1955)",
+			"Kind Hearts and Coronets (1949)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Who is the youngest performer to be nominated for Best Actress?",
+		"options": [
+			"Keisha Castle-Hughes",
+			"Marlee Matlin",
+			"Isabelle Adjani"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Which male performer holds the record for the longest interval between Oscar nominations for acting?",
+		"options": [
+			"Mickey Rooney",
+			"Alan Arkin",
+			"Henry Fonda"
+		],
+		"answer": "3"
+	},
+{
+		"question": "What is the title of director William Wyler's 1961 remake of his earlier movie These Three (1936)?",
+		"options": [
+			"The Children's Hour",
+			"The Desperate Hours",
+			"Dead End"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Who was the first American Bond girl in the famous series of 007 movies?",
+		"options": [
+			"Denise Richards",
+			"Teri Hatcher",
+			"Jill St. John"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Who is the first female actress to win an Academy Award for playing a character of the opposite sex?",
+		"options": [
+			"Gwyneth Paltrow",
+			"Linda Hunt",
+			"Julie Andrews"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Who is the only actor to win three Oscars in the Best Supporting Actor category?",
+		"options": [
+			"Henry Fonda",
+			"Walter Brennan",
+			"James Stewart"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Who was the first actor to receive a Best Actor Oscar for a musical performance?",
+		"options": [
+			"Elvis Presley ",
+			"Yul Brynner",
+			"James Cagney"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Which future superstar made his feature debut in Wes Craven's horror film Nightmare on Elm Street (1984)?",
+		"options": [
+			"Adam Sandler",
+			"Matt Dillon",
+			"Johnny Depp"
+		],
+		"answer": "3"
+	},
+{
+		"question": "What was the only silent movie to win Best Picture?",
+		"options": [
+			"The Gold Rush (1925) ",
+			"Wings (1927/28)",
+			"Metropolis (1927)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "In the biopic Man on the Moon (1999) about eccentric American entertainer Andy Kaufman (Jim Carrey), which major event in Kaufman's life was chronologically placed at the end of the film but actually occurred much earlier?",
+		"options": [
+			"His Carnegie Hall 'milk and cookies' performance ",
+			"His long-running 'feud' with professional wrestler Jerry 'The King' Lawler",
+			"His guest appearance on TV's sitcom Taxi"
+		],
+		"answer": "1"
+	},
+{
+		"question": "In the offbeat comedy Napoleon Dynamite (2004), the carrot-topped, geeky high-school character (Jon Heder) became the manager of the Class President campaign for which other character?",
+		"options": [
+			"Deb ",
+			"Summer",
+			"Pedro"
+		],
+		"answer": "3"
+	},
+{
+		"question": "In how many films did Bela Lugosi portray the character of Count Dracula?",
+		"options": [
+			"Two",
+			"Four",
+			"Five"
+		],
+		"answer": "1"
+	},
+{
+		"question": "In what film did Spencer Tracy receive a Best Actor nomination for his role as a one-armed WWII veteran who uncovered a hostile desert town's awful past secrets?",
+		"options": [
+			"Bad Day at Black Rock (1955)",
+			"Pursued (1947)",
+			"The Naked Spur (1953)"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Who was the only actor to play all four classic movie monsters: the Wolf Man, the Frankenstein Monster, the Mummy, and Count Dracula?",
+		"options": [
+			"Lon Chaney, Jr. ",
+			"Bela Lugosi",
+			"Boris Karloff"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Which of the following films won a Razzie Award in every category in which it was nominated?",
+		"options": [
+			"Catwoman (2004) ",
+			"Showgirls (1995)",
+			"The Postman (1997)"
+		],
+		"answer": "3"
+	},
+{
+		"question":"All of the following films are considered film noirs except?",
+		"options": [
+			"Mildred Pierce (1945) ",
+			"The Maltese Falcon (1941)",
+			"Meet John Doe (1941)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "On a film set, who has the overall responsibility for managing the lighting in a film production?",
+		"options": [
+			"Boom operator",
+			"Key grip",
+			" Gaffer"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Which film had the tagline: Heaven and Earth are About to Collide ?",
+		"options": [
+			"Armageddon (1998)",
+			"When Worlds Collide (1951)",
+			"Deep Impact (1998)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "How many Oscar nominations did actor Cary Grant receive during his entire career?",
+		"options": [
+			"Two",
+			"Three",
+			"None"
+		],
+		"answer": "1"
+	},
+{
+		"question": "Prepare to be blown out of the water was the tagline for which film?",
+		"options": [
+			" Master and Commander: The Far Side of the World (2003)",
+			"Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+			"Damn the Defiant! (1962)"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Which early movie studio was known for B-westerns, serials and for burgeoning star John Wayne?",
+		"options": [
+			"Goldwyn Pictures",
+			"Universal",
+			" Republic Pictures"
+		],
+		"answer": "3"
+	},
+{
+		"question": "In what country did the classic adventure film The General Died at Dawn (1936) take place?",
+		"options": [
+			"Russia",
+			"Japan",
+			"China"
+		],
+		"answer": "3"
+	},
+{
+		"question":"Who was the only six-time Best Actress Oscar nominee who never won?",
+		"options": [
+			"Sissy Spacek",
+			"Deborah Kerr",
+			"Norma Shearer"
+		],
+		"answer": "2"
+	},
+{
+		"question": "Which Buster Keaton film was claimed to be a parody or satire of director D.W. Griffith's epic Intolerance (1916)?",
+		"options": [
+			"The Navigator (1924)",
+			"Sherlock, Jr. (1924)",
+			"Three Ages (1923)"
+		],
+		"answer": "3"
+	},
+{
+		"question": "What is the name of the film crew individual who creates naturalistic sound effects for a film after it has been shot?",
+		"options": [
+			"Best Boy",
+			"Sound FX Editor",
+			"Foley Artist"
+		],
+		"answer": "3"
+	},
+{
+		"question": "Which 1920s film is generally considered the first feature-length formal documentary film?",
+		"options": [
+			"Nanook of the North ",
+			"Moana",
+			"Grass: A Nation's Battle for Life"
+		],
+		"answer": "1"
+	},
+{
+		"question": "All of the following pairings of film movements with representative films are correct, except which one?",
+		"options": [
+			"Italian Neo-Realism - Rome, Open City (1946)",
+			"French Poetic Realism - Breathless (1960)",
+			"Soviet Montage - The Battleship Potemkin (1925)"
+		],
+		"answer": "2"
+	},
+	{
+		"question": "From Tollywood,who is the director of Life Is Beautiful ?",
+		"options": [
+			"Gowthem Menon",
+			"Shekar Kamula",
+			"Rajamouli"
+		],
+		"answer": "2"
+	}
+	
+]	
